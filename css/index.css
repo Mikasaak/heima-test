@@ -1,0 +1,1040 @@
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+input {
+  -webkit-appearance: none;
+}
+img,
+a {
+  -webkit-touch-callout: none;
+  text-decoration: none;
+  vertical-align: top;
+  color: #1C1C1C;
+}
+li {
+  list-style: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+.clearfix:after,
+.clearfix:before {
+  content: "";
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  *zoom: 1;
+}
+body {
+  min-width: 320px;
+  max-width: 750px;
+  margin: 0 auto;
+  height: 1200px;
+  background-color: #F2F4F7;
+  position: relative;
+}
+@media screen and (min-width: 750px) {
+  body {
+    font-size: 37.5px !important;
+  }
+}
+@media screen and (min-width: 750px) {
+  html {
+    font-size: 37.5px !important;
+  }
+}
+@media screen and (max-width: 320px) {
+  html {
+    font-size: 16px !important;
+  }
+}
+.header {
+  position: relative;
+  height: 2.133rem;
+  border-bottom: 0.027rem solid #EAEAEA;
+  padding-top: 0.373rem;
+  background-color: #ffffff;
+  text-align: center;
+  line-height: 2.133rem;
+  font-size: 0.933rem;
+  color: #1C1C1C;
+}
+.header .bottom {
+  position: absolute;
+  right: 0.453rem;
+  bottom: 0.453rem;
+  width: 4.64rem;
+  height: 1.653rem;
+  background: url("../images/组 14@2x.png") no-repeat;
+  background-size: 4.64rem 1.653rem;
+  border: 0.013rem solid #eaeaea;
+  border-radius: 1.653rem;
+}
+.warp {
+  background-color: #ffffff;
+}
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  padding-top: 1.2rem;
+  padding-bottom: 1.6rem;
+}
+.nav .item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 33.3%;
+  flex: 1 0 auto;
+}
+.nav .item img {
+  width: 2.88rem;
+}
+.nav .item span {
+  color: #707070;
+  font-size: 0.667rem;
+}
+.nav .item:nth-child(-n+3) {
+  margin-bottom: 1.84rem;
+}
+.test {
+  width: 100%;
+  height: 2.667rem;
+  background-color: #ffffff;
+}
+.go {
+  padding-left: 0.48rem;
+  padding-right: 0.267rem;
+  padding-bottom: 1.147rem;
+}
+.go img {
+  width: 100%;
+}
+.content {
+  margin-top: 0.267rem;
+  background-color: #ffffff;
+}
+.content .ss-hd {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 1.013rem;
+  padding: 1.067rem 1.013rem 0;
+}
+.content h2 {
+  display: flex;
+  justify-content: center;
+  font-size: 0.747rem;
+  font-weight: Bold;
+  color: #333333;
+}
+.content h2::before {
+  content: "";
+  display: inline-block;
+  width: 1.013rem;
+  height: 1.013rem;
+  margin-right: 0.133rem;
+  background: url(../icons/i2.png) no-repeat;
+  background-size: 1.013rem;
+}
+.content .more {
+  font-size: 0.587rem;
+  color: #999999;
+}
+.get-job-focus {
+  position: relative;
+}
+.get-job-focus .swiper-container {
+  width: 14.4rem;
+  height: 100%;
+}
+.get-job-focus .swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  /* Center slide text vertically */
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+  transition: 300ms;
+  transform: scale(0.8);
+  opacity: 0.4;
+}
+.get-job-focus .swiper-slide a {
+  width: 9.013333rem;
+  height: 10.026667rem;
+}
+.get-job-focus .swiper-slide a img {
+  width: 100%;
+  height: 100%;
+}
+.get-job-focus .swiper-slide p {
+  width: 9.013333rem;
+  font-size: 0.666667rem;
+  margin-top: 0.64rem;
+  color: #333;
+}
+.get-job-focus .swiper-slide-active,
+.get-job-focus .swiper-slide-duplicate-active {
+  transform: scale(1);
+  z-index: 20;
+  opacity: 1;
+}
+.content {
+  padding-left: 0.6667rem;
+  padding-right: 0.6667rem;
+}
+.content .charge {
+  margin-top: 1.0667rem;
+  width: 18.72rem;
+  height: 9.6rem;
+}EEVDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDEFFEEEEEEEEEEEEEEW
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.charge .swiper-container {
+  padding: 0.266667rem;
+}
+.charge .swiper-slide {
+  font-size: 18px;
+  background: #fff;
+  width: 7.733333rem;
+  height: 9.066667rem;
+  background-color: #fff;
+  border-radius: 0.266667rem;
+  box-shadow: 0 0px 10px rgba(0, 0, 0, 0.1);
+}
+.charge .swiper-slide h5 {
+  font-size: 0.693333rem;
+  margin: 0.533333rem 0;
+  font-weight: 400;
+  padding: 0 0.266667rem;
+}
+.charge .swiper-slide img {
+  width: 100%;
+  height: auto;
+}
+.charge .swiper-slide p {
+  font-size: 0.693333rem;
+  color: #999999;
+  padding: 0 0.266667rem;
+}
+.charge .swiper-slide p span {
+  color: #ff5a00;
+}
+.footer {
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20rem;
+  height: 3.0133rem;
+  z-index: 100;
+  background-color: #ffffff;
+  border-top: 1px solid #e5e5e5;
+}
+.footer .bottom {
+  padding-top: 0.5333rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer .bottom img {
+  margin-top: 0.5333rem;
+  width: 1.0667rem;
+  height: 1.0667rem;
+}
+.footer .bottom p {
+  margin-top: 0.3733rem;
+  margin-bottom: 0.5333rem;
+  font-size: 0.5867rem;
+}
+.test {
+  height: 80rem;
+}
+/*# sourceMappingURL=index.css.map */
